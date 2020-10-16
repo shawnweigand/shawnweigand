@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a fourth-year undergrad studying Systems Engineering and Business at the University of Virginia.
 <!--
 **shawnweigand/shawnweigand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
