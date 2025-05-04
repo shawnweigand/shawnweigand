@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Cloud Full Stack Engineer at The Estee Lauder Companies. Welcome to my space!
+I'm a Cloud Engineer at Lazard. Welcome to my space!
 <!--
 **shawnweigand/shawnweigand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
